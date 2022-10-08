@@ -1,0 +1,38 @@
+
+.form{
+    /* border: 2px solid tomato; */
+    margin-top: 50px;
+    padding: 30px 100px;
+    box-shadow: 5px 5px 5px 10px gray;
+}
+
+.container{
+    /* border: 3px solid blueviolet; */
+}
+
+#home-page{
+    display: none;
+    /* border: 2px solid tomato; */
+    padding: 10px;
+}
+
+.balance-card{
+    width: 300px;
+    color: white;
+}
+
+.transaction{
+    height: 200px;
+}
+
+.lenden{
+    height: 200px;
+}
+
+.lenden-card{
+    /* border: 2px solid blue; */
+    margin: 0px 30px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 5px gray; */
+}
+
